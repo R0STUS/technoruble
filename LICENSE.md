@@ -1,0 +1,1 @@
+We care about your privacy. All data we collect is used solely to improve the functionality of the bot and is not shared with third parties. You can request information about the data we store at any time. Using this bot implies your consent to our privacy policy.
